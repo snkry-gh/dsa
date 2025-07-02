@@ -15,4 +15,20 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snkry-gh/dsa/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
