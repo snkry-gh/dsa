@@ -6,6 +6,7 @@ Repository for Data Structures &amp; Algorithms
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/snkry-gh/dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/snkry-gh/dsa/tree/master/0011-container-with-most-water) |
 | [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -44,4 +45,8 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/snkry-gh/dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
