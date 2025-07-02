@@ -20,15 +20,18 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -37,4 +40,8 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
