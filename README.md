@@ -7,6 +7,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snkry-gh/dsa/tree/master/0011-container-with-most-water) |
+| [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+| [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -31,4 +33,8 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
