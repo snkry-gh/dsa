@@ -14,6 +14,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snkry-gh/dsa/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/snkry-gh/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +54,8 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snkry-gh/dsa/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/snkry-gh/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
