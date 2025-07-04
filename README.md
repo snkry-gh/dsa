@@ -12,6 +12,7 @@ Repository for Data Structures &amp; Algorithms
 | [0542-01-matrix](https://github.com/snkry-gh/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/snkry-gh/dsa/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Repository for Data Structures &amp; Algorithms
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/snkry-gh/dsa/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Repository for Data Structures &amp; Algorithms
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/snkry-gh/dsa/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -53,11 +56,13 @@ Repository for Data Structures &amp; Algorithms
 | [0542-01-matrix](https://github.com/snkry-gh/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/snkry-gh/dsa/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/snkry-gh/dsa/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/snkry-gh/dsa/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/snkry-gh/dsa/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
