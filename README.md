@@ -74,9 +74,18 @@ Repository for Data Structures &amp; Algorithms
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snkry-gh/dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snkry-gh/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/snkry-gh/dsa/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/snkry-gh/dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/snkry-gh/dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
