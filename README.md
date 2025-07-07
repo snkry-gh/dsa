@@ -28,6 +28,7 @@ Repository for Data Structures &amp; Algorithms
 | [0094-binary-tree-inorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/snkry-gh/dsa/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
@@ -104,14 +105,17 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
