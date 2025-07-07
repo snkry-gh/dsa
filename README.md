@@ -26,6 +26,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/snkry-gh/dsa/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
@@ -97,4 +98,16 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snkry-gh/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
