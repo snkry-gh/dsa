@@ -32,6 +32,7 @@ Repository for Data Structures &amp; Algorithms
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/snkry-gh/dsa/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/snkry-gh/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/snkry-gh/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/snkry-gh/dsa/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/snkry-gh/dsa/tree/master/0801-is-graph-bipartite) |
@@ -119,6 +120,7 @@ Repository for Data Structures &amp; Algorithms
 | [0110-balanced-binary-tree](https://github.com/snkry-gh/dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/snkry-gh/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,4 +130,5 @@ Repository for Data Structures &amp; Algorithms
 | [0110-balanced-binary-tree](https://github.com/snkry-gh/dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/snkry-gh/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
