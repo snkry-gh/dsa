@@ -88,11 +88,13 @@ Repository for Data Structures &amp; Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/snkry-gh/dsa/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/snkry-gh/dsa/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/snkry-gh/dsa/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/snkry-gh/dsa/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -131,4 +133,8 @@ Repository for Data Structures &amp; Algorithms
 | [0144-binary-tree-preorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snkry-gh/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/snkry-gh/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/snkry-gh/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
