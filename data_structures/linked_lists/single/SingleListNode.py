@@ -1,0 +1,7 @@
+from data_structures.linked_lists.ListNode import ListNode
+
+class SingleListNode(ListNode):
+    def __init__(self, data):
+        super(data)
+        self.next = None
+
