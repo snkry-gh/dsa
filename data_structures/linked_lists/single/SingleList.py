@@ -6,7 +6,7 @@ from data_structures.linked_lists.LinkedList import LinkedList
 from data_structures.linked_lists.single.SingleListNode import SingleListNode
 
 
-class SingleLinkedList(LinkedList):
+class SingleList(LinkedList):
 
     def __init__(self):
         super().__init__()

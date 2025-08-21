@@ -37,14 +37,6 @@ class LinkedList(ABC):
     def pop_back(self):
         raise NotImplementedError
     
-    @abstractmethod
-    def insert_at(self, data, idx):
-        raise NotImplementedError
-    
-    @abstractmethod
-    def remove_at(self, data, idx):
-        raise NotImplementedError
-    
     def index_of(self, data):
         curr, idx = self._head, 0
         while curr:

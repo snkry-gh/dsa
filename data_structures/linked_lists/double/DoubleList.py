@@ -5,7 +5,7 @@ Implementation of Double Linked Lists
 from data_structures.linked_lists.LinkedList import LinkedList
 from data_structures.linked_lists.double.DoubleListNode import DoubleListNode
 
-class DoubleLinkedList(LinkedList):
+class DoubleList(LinkedList):
     
     def __init__(self):
         super().__init__()

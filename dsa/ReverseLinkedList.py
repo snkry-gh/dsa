@@ -6,11 +6,12 @@ https://leetcode.com/problems/reverse-linked-list/
 from dsa.util.ListUtil import *
 
 class Solution:
-    def reverseLinkedList(self):
+    def reverseLinkedList(self, head):
         pass
 
     def solve(self):
         head = createSingleList([1, 2, 3, 4, 5])
+        printList(head)
         reverseHead = self.reverseLinkedList(head)
         printList(reverseHead)
 
