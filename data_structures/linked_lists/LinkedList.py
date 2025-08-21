@@ -48,6 +48,6 @@ class LinkedList(ABC):
     def index_of(self, data):
         curr, idx = self._head, 0
         while curr:
-            if cur.data == data: return idx
-            cur, idx = cur.next, idx+1
+            if curr.data == data: return idx
+            curr, idx = curr.next, idx+1
         return -1
